@@ -20,3 +20,5 @@ elif pagina == 'Individual':
 
 frase = "<span style='font-size: 12px;'>Os dados podem ser consultados em: <a href='https://www12.senado.leg.br'>https://www12.senado.leg.br</a></span>"
 st.markdown(frase, unsafe_allow_html=True)
+criado = "<span style='font-size: 12px;'>Desenvolvido por: Alberto Araujo </span>"
+st.markdown(criado, unsafe_allow_html=True)
