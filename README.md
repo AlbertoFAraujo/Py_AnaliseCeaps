@@ -5,5 +5,5 @@ O foco da análise é extrair informações sobre as despesas e os valores reemb
 
 📋 Dados públicos podem ser acessados em:  https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Administrativo&grupo=senadores
 
-📈 O dashboard pode ser acessado em: https://dashceaps2022.streamlit.app/
+📈 O dashboard pode ser acessado em: https://dash2022ceaps.streamlit.app/
 
