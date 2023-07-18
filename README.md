@@ -1,2 +1,4 @@
-# StreamlitRepo
-Repositório para teste do streamlit com gráficos dinâmicos
+# 🔎Análise Exploratório CEAPS
+O dashboard foi elaborado com python e streamlit. Poderá ser acessado através do link:
+https://dashceaps2022.streamlit.app/
+
