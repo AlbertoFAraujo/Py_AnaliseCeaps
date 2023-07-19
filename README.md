@@ -4,7 +4,7 @@
 **Link da aplicação:** https://dash2022ceaps.streamlit.app/
 
 ### Tecnologias utilizadas: 
-| <img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/python.svg"> | <img align="center" alt="Streamlit" height="60" width="60" src="https://api.iconify.design/logos/streamlit.svg"> | <img align="center" alt="Pandas" height="60" width="60" src="https://api.iconify.design/simple-icons/pandas.svg?color=%23f2f2f2"> | <img align="center" alt="Plotly" height="60" width="60" src="https://api.iconify.design/devicon/plotly.svg"> |
+| [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/python.svg">](https://www.python.org/) | [<img align="center" alt="Streamlit" height="60" width="60" src="https://api.iconify.design/logos/streamlit.svg">](https://www.streamlit.io/) | [<img align="center" alt="Pandas" height="60" width="60" src="https://api.iconify.design/simple-icons/pandas.svg?color=%23f2f2f2">](https://pandas.pydata.org/) | [<img align="center" alt="Plotly" height="60" width="60" src="https://api.iconify.design/devicon/plotly.svg">](https://plotly.com/) |
 |:---:|:---:|:---:|:---:|
 | Python | Streamlit | Pandas | Plotly |
 <hr>
