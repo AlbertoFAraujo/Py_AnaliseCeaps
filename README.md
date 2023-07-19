@@ -4,11 +4,16 @@
 **Link da aplicação:** https://dash2022ceaps.streamlit.app/
 
 ### Tecnologias utilizadas: 
-
-- Python (Pycharm e Jupyter Notebook);
-- Pandas;
-- Plotly;
-- Streamlit;
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="Alberto-python" height="60" width="60" src="https://api.iconify.design/logos/python.svg">
+  <p style="margin-left: 10px;">Python</p>
+  <img align="center" alt="Alberto-streamlit" height="60" width="60" src="https://api.iconify.design/logos/streamlit.svg">
+  <p style="margin-left: 10px;">Streamlit</p>
+  <img align="center" alt="Alberto-pandas" height="60" width="60" src="https://api.iconify.design/simple-icons/pandas.svg?color=%23f2f2f2">
+  <p style="margin-left: 10px;">Pandas</p>
+  <img align="center" alt="Alberto-plotly" height="60" width="60" src="https://api.iconify.design/devicon/plotly.svg">
+  <p style="margin-left: 10px;">Plotly</p>
+</div>
 
 ### Objetivo: 
 
