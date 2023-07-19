@@ -1,5 +1,5 @@
 ![camara](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/d83cae01-fa82-40c5-aa1d-54ff7a1770ea)
-# ANÁLISE CEAPS 2022
+# 📈ANÁLISE CEAPS 2022
 
 **Link da aplicação:** https://dash2022ceaps.streamlit.app/
 
@@ -15,7 +15,7 @@ Este projeto tem por objetivo analisar as variáveis dos dados públicos de Cota
 
 O foco da análise é extrair informações sobre as despesas e os valores reembolsados pelos Senadores em 2022 com uma visão geral dos gastos (médios ou totais) e individuais, utilizando a biblioteca *plotly* e *streamlit* em python para criar os gráficos dinâmicos.
 
-Dados públicos podem ser acessados em: [https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Administrativo&grupo=senadores](https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Administrativo&grupo=senadores)
+Os dados públicos podem ser acessados em: [https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Administrativo&grupo=senadores](https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Administrativo&grupo=senadores)
 <hr>
 
 ### Etapas do projeto:
