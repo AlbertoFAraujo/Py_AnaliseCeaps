@@ -7,7 +7,7 @@
 | <img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/python.svg"> | <img align="center" alt="Streamlit" height="60" width="60" src="https://api.iconify.design/logos/streamlit.svg"> | <img align="center" alt="Pandas" height="60" width="60" src="https://api.iconify.design/simple-icons/pandas.svg?color=%23f2f2f2"> | <img align="center" alt="Plotly" height="60" width="60" src="https://api.iconify.design/devicon/plotly.svg"> |
 |:---:|:---:|:---:|:---:|
 | Python | Streamlit | Pandas | Plotly |
-
+<hr>
 
 ### Objetivo: 
 
@@ -16,6 +16,7 @@ Este projeto tem por objetivo analisar as variáveis dos dados públicos de Cota
 O foco da análise é extrair informações sobre as despesas e os valores reembolsados pelos Senadores em 2022 com uma visão geral dos gastos (médios ou totais) e individuais, utilizando a biblioteca *plotly* e *streamlit* em python para criar os gráficos dinâmicos.
 
 Dados públicos podem ser acessados em: [https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Administrativo&grupo=senadores](https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Administrativo&grupo=senadores)
+<hr>
 
 ### Etapas do projeto:
 
@@ -23,6 +24,7 @@ Dados públicos podem ser acessados em: [https://www12.senado.leg.br/dados-aber
 2. Importação e tratamento dos dados (Limpeza, transformações, formatações de campos, análise de valores *null*, análise de variáveis, criação de variáveis auxiliares) - Biblioteca Pandas;
 3. Definição do layout e criação de análises de variáveis (Gerais ou individuais dos Senadores) - Streamlit
 4. Deploy do projeto final e hospedagem Streamlit app
+<hr>
 
 ### Tempo de Execução:
 
