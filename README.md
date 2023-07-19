@@ -1,6 +1,8 @@
 ![camara](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/1f67eeac-ad0b-417f-ac06-8da10b1ec718)
 # ANÁLISE CEAPS 2022
 
+**Link da aplicação:** https://dash2022ceaps.streamlit.app/
+
 ### Tecnologias utilizadas: 
 
 - Python (Pycharm e Jupyter Notebook);
@@ -31,3 +33,4 @@ O tempo estimado para a execução de todas as etapas é de 1 dia.
 
 ![Untitled](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/aa0cdf1e-22d1-465e-a7e1-84ef932d733b)
 ![Untitled 1](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/2aaf7566-3b51-44e4-98b7-1974709f681e)
+![analiseIndividual](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/2d04376c-9d4f-42dd-ba91-83f32cf6fd5b)
