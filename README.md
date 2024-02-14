@@ -1,5 +1,4 @@
-![camara](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/d83cae01-fa82-40c5-aa1d-54ff7a1770ea)
-# 📈ANÁLISE CEAPS 2022
+![python-projeto03](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/68f286c8-3427-4a36-b57e-83069e1c7fbe)
 
 **Link da aplicação:** https://dash2022ceaps.streamlit.app/
 
