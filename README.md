@@ -25,10 +25,6 @@ Os dados públicos podem ser acessados em: [https://www12.senado.leg.br/dados-a
 4. Deploy do projeto final e hospedagem Streamlit app
 <hr>
 
-### Tempo de Execução:
-
-O tempo estimado para a execução de todas as etapas é de 1 dia.
-
 ### Projeto Final:
 
 ![Untitled](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/aa0cdf1e-22d1-465e-a7e1-84ef932d733b)
